@@ -20,7 +20,7 @@ public class YouTubeConnector {
     private YouTube youtube;
     private YouTube.Search.List query;
 
-    // Your developer key goes here
+    
     public static final String KEY
             = "AIzaSyAYmBl9idwl_Rlpu9oIzwvMNio1cuJv73s";
 
